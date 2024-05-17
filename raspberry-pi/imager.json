@@ -50,5 +50,16 @@
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
+                    {
+                        "name": “Ultramarine Linux Base,
+                        "description": "Ultramarine with No Desktop.",
+                        "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
+                        "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-base-<releasever>-aarch64.img.xz",
+                        "extract_size": TBD,
+                        "extract_sha256": “TBD”,
+                        "image_download_size": TBD,
+                        "release_date": “TBD”,
+                        "init_format": "systemd"
+                    }
                 ]
                     }
