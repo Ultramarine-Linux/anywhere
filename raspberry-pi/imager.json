@@ -11,9 +11,9 @@
                         "description": "Our default and most popular variant. Choose Flagship if you’d like a familiar and stylish experience.",
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-flagship-<releasever>-aarch64.img.xz",
-                        "extract_size": TBD,
+                        "extract_size": 11811160065,
                         "extract_sha256": “TBD”,
-                        "image_download_size": TBD,
+                        "image_download_size": 3463948033,
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
@@ -22,9 +22,9 @@
                         "description": "Our second most popular variant. Choose KDE if you’d like a simply customisable experience.",
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-kde-<releasever>-aarch64.img.xz",
-                        "extract_size": TBD,
+                        "extract_size": 13958643713,
                         "extract_sha256": “TBD”,
-                        "image_download_size": TBD,
+                        "image_download_size": 4903974603,
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
@@ -33,9 +33,9 @@
                         "description": "Elegant and Modern. Choose GNOME if you’d like a simple, unique experience.",
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-gnome-<releasever>-aarch64.img.xz",
-                        "extract_size": TBD,
+                        "extract_size": 11811160065,
                         "extract_sha256": “TBD”,
-                        "image_download_size": TBD,
+                        "image_download_size": 3627660507,
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
@@ -44,9 +44,9 @@
                         "description": "Lightweight and Configurable. Choose Xfce if you’d like a lighter experience.",
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-xfce-<releasever>-aarch64.img.xz",
-                        "extract_size": TBD,
+                        "extract_size": 11811160065,
                         "extract_sha256": “TBD”,
-                        "image_download_size": TBD,
+                        "image_download_size": 3727765227,
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
@@ -55,9 +55,9 @@
                         "description": "Ultramarine with No Desktop.",
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-base-<releasever>-aarch64.img.xz",
-                        "extract_size": TBD,
+                        "extract_size": 8589934593,
                         "extract_sha256": “TBD”,
-                        "image_download_size": TBD,
+                        "image_download_size": 2385847670,
                         "release_date": “TBD”,
                         "init_format": "systemd"
                     }
