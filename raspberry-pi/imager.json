@@ -12,7 +12,7 @@
                         "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-flagship-<releasever>-aarch64.img.xz",
                         "extract_size": 11811160065,
-                        "extract_sha256": "TBD',
+                        "extract_sha256": "TBD",
                         "image_download_size": 3463948033,
                         "release_date": "TBD"
                     }
