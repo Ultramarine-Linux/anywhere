@@ -13,7 +13,7 @@
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-flagship-<releasever>-aarch64.img.xz",
                         "extract_size": 11811160065,
                         "extract_sha256": "TBD",
-                        "image_download_size": 3463948033,
+                        "image_download_size": 2944188035,
                         "release_date": "TBD"
                     }
                     {
@@ -23,7 +23,7 @@
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-kde-<releasever>-aarch64.img.xz",
                         "extract_size": 13958643713,
                         "extract_sha256": "TBD",
-                        "image_download_size": 4903974603,
+                        "image_download_size": 4090388875,
                         "release_date": "TBD"
                     }
                     {
@@ -33,7 +33,7 @@
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-gnome-<releasever>-aarch64.img.xz",
                         "extract_size": 11811160065,
                         "extract_sha256": "TBD",
-                        "image_download_size": 3627660507,
+                        "image_download_size": 2959396274,
                         "release_date": "TBD"
                     }
                     {
@@ -43,7 +43,7 @@
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-xfce-<releasever>-aarch64.img.xz",
                         "extract_size": 11811160065,
                         "extract_sha256": "TBD",
-                        "image_download_size": 3727765227,
+                        "image_download_size": 3168605348,
                         "release_date": "TBD"
                     }
                     {
@@ -53,7 +53,7 @@
                         "url": "https://images.fyralabs.com/images/ultramarine/39/ultramarine-base-<releasever>-aarch64.img.xz",
                         "extract_size": 8589934593,
                         "extract_sha256": "TBD",
-                        "image_download_size": 2385847670,
+                        "image_download_size": 2032927036,
                         "release_date": "TBD"
                     }
                 ]
