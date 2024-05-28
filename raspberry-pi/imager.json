@@ -1,60 +1,69 @@
 {
-    "name": "Ultramarine Linux",
-    "description": "Ultramarine Linux is a Fedora-based Linux distribution designed to stay out of your way and be easy to use.",
-    "icon": "https://github.com/Ultramarine-Linux/logos-src/blob/lapis/pixmaps/rpi-imager.svg",
-    "devices": [
-        		"pi4-64bit",
-     			],
-    "subitems": [
-                    {
-                        "name": "Ultramarine Linux Flagship Edition",
-                        "description": "Our default and most popular variant. Choose Flagship if you’d like a familiar and stylish experience.",
-                        "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
-                        "url": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst",
-                        "extract_size": 11811160065,
-                        "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst.sha256sum",
-                        "image_download_size": 2944188035,
-                        "release_date": "2024-05-22"
-                    }
-                    {
-                        "name": "Ultramarine Linux KDE Edition",
-                        "description": "Our second most popular variant. Choose KDE if you’d like a simply customisable experience.",
-                        "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
-                        "url": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst",
-                        "extract_size": 13958643713,
-                        "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst.sha256sum",
-                        "image_download_size": 4090388875,
-                        "release_date": "2024-05-22"
-                    }
-                    {
-                        "name": "Ultramarine Linux GNOME Edition",
-                        "description": "Elegant and Modern. Choose GNOME if you’d like a simple, unique experience.",
-                        "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
-                        "url": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst",
-                        "extract_size": 11811160065,
-                        "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst.sha256sum",
-                        "image_download_size": 2959396274,
-                        "release_date": "2024-05-22"
-                    }
-                    {
-                        "name": "Ultramarine Linux Xfce Edition",
-                        "description": "Lightweight and Configurable. Choose Xfce if you’d like a lighter experience.",
-                        "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
-                        "url": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst",
-                        "extract_size": 11811160065,
-                        "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst.sha256sum",
-                        "image_download_size": 3168605348,
-                        "release_date": "2024-05-22"
-                    }
-                    {
-                        "name": "Ultramarine Linux Base",
-                        "description": "Ultramarine with No Desktop.",
-                        "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
-                        "url": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst",
-                        "extract_size": 8589934593,
-                        "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst.sha256sum",
-                        "image_download_size": 2032927036,
-                        "release_date": "2024-05-22"
-                    }
-                ]
-                    }
+    "os_list": [
+        {
+            "name": "Ultramarine Linux Flagship Edition",
+            "description": "Our default and most popular variant. Choose Flagship if you'd like a familiar and stylish experience.",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "url": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst",
+            "extract_size": 11811160065,
+            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst.sha256sum",
+            "image_download_size": 2944188035,
+            "release_date": "2024-05-22",
+            "devices": [
+                "pi4-64bit"
+            ]
+        },
+        {
+            "name": "Ultramarine Linux KDE Edition",
+            "description": "Our second most popular variant. Choose KDE if you'd like a simply customisable experience.",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "url": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst",
+            "extract_size": 13958643713,
+            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst.sha256sum",
+            "image_download_size": 4090388875,
+            "release_date": "2024-05-22",
+            "devices": [
+                "pi4-64bit"
+            ]
+        },
+        {
+            "name": "Ultramarine Linux GNOME Edition",
+            "description": "Elegant and Modern. Choose GNOME if you'd like a simple, unique experience.",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "url": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst",
+            "extract_size": 11811160065,
+            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst.sha256sum",
+            "image_download_size": 2959396274,
+            "release_date": "2024-05-22",
+            "devices": [
+                "pi4-64bit"
+            ]
+        },
+        {
+            "name": "Ultramarine Linux Xfce Edition",
+            "description": "Lightweight and Configurable. Choose Xfce if you'd like a lighter experience.",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "url": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst",
+            "extract_size": 11811160065,
+            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst.sha256sum",
+            "image_download_size": 3168605348,
+            "release_date": "2024-05-22",
+            "devices": [
+                "pi4-64bit"
+            ]
+        },
+        {
+            "name": "Ultramarine Linux Base",
+            "description": "Ultramarine with No Desktop.",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "url": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst",
+            "extract_size": 8589934593,
+            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst.sha256sum",
+            "image_download_size": 2032927036,
+            "release_date": "2024-05-22",
+            "devices": [
+                "pi4-64bit"
+            ]
+        }
+    ]
+}
