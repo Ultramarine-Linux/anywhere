@@ -6,7 +6,7 @@
             "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst",
             "extract_size": 12000000000,
-            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst.sha256sum",
+            "extract_sha256": "94536fce7588d8b9dea024f579f54f5987f8a1fe2c9b0197235f8f4d76df2cd3",
             "image_download_size": 3093636232,
             "release_date": "2024-05-22",
             "devices": [
@@ -19,7 +19,7 @@
             "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst",
             "extract_size": 15000000000,
-            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst.sha256sum",
+            "extract_sha256": "1085a1d3127beec2177a978eddb7480b86b000ac5d2fb5868ec9d0af0b6f74e0",
             "image_download_size": 4551879813,
             "release_date": "2024-05-22",
             "devices": [
@@ -32,7 +32,7 @@
             "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst",
             "extract_size": 11000000000,
-            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst.sha256sum",
+            "extract_sha256": "15fa3413f80d8245a96840e5efe693a563de6425251d741a2e734296c65a6973",
             "image_download_size": 3081465145,
             "release_date": "2024-05-22",
             "devices": [
@@ -45,7 +45,7 @@
             "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst",
             "extract_size": 12000000000,
-            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst.sha256sum",
+            "extract_sha256": "b44ca43b62bf280ec1abe5f7b38f772354e8c2605d17e871a647bf2942fe1b71",
             "image_download_size": 3250925267,
             "release_date": "2024-05-22",
             "devices": [
@@ -58,7 +58,7 @@
             "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst",
             "extract_size": 8000000000,
-            "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst.sha256sum",
+            "extract_sha256": "94536fce7588d8b9dea024f579f54f5987f8a1fe2c9b0197235f8f4d76df2cd3",
             "image_download_size": 1967269443,
             "release_date": "2024-05-22",
             "devices": [
