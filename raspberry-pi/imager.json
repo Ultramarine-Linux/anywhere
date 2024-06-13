@@ -3,7 +3,7 @@
         {
             "name": "Ultramarine Linux Flagship Edition",
             "description": "Our default and most popular variant. Choose Flagship if you'd like a familiar and stylish experience.",
-            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst",
             "extract_size": 12000000000,
             "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst.sha256sum",
@@ -16,7 +16,7 @@
         {
             "name": "Ultramarine Linux KDE Edition",
             "description": "Our second most popular variant. Choose KDE if you'd like a simply customisable experience.",
-            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst",
             "extract_size": 15000000000,
             "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst.sha256sum",
@@ -29,7 +29,7 @@
         {
             "name": "Ultramarine Linux GNOME Edition",
             "description": "Elegant and Modern. Choose GNOME if you'd like a simple, unique experience.",
-            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst",
             "extract_size": 11000000000,
             "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst.sha256sum",
@@ -42,7 +42,7 @@
         {
             "name": "Ultramarine Linux Xfce Edition",
             "description": "Lightweight and Configurable. Choose Xfce if you'd like a lighter experience.",
-            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst",
             "extract_size": 12000000000,
             "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst.sha256sum",
@@ -55,7 +55,7 @@
         {
             "name": "Ultramarine Linux Base",
             "description": "Ultramarine with No Desktop.",
-            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.svg",
+            "icon": "https://github.com/Ultramarine-Linux/logos/blob/lapis/pixmaps/rpi-imager.png",
             "url": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst",
             "extract_size": 8000000000,
             "extract_sha256": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst.sha256sum",
