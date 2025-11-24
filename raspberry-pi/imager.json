@@ -1,69 +1,48 @@
 {
-    "os_list": [
-        {
-            "name": "Ultramarine Linux Flagship Edition",
-            "description": "Our default and most popular variant. Choose Flagship if you'd like a familiar and stylish experience.",
-            "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
-            "url": "https://images.fyralabs.com/images/ultramarine/40/flagship-base-disk-aarch64.img.zst",
-            "extract_size": 12000000000,
-            "extract_sha256": "66e943cb5137ef4145d282de898cc354145c9f9083049f567f6d7ee603171a74",
-            "image_download_size": 3093636232,
-            "release_date": "2024-05-22",
-            "devices": [
-                "pi4-64bit"
-            ]
-        },
-        {
-            "name": "Ultramarine Linux KDE Edition",
-            "description": "Our second most popular variant. Choose KDE if you'd like a simply customisable experience.",
-            "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
-            "url": "https://images.fyralabs.com/images/ultramarine/40/kde-base-disk-aarch64.img.zst",
-            "extract_size": 15000000000,
-            "extract_sha256": "65021f7668fa39e91f1c61ad2050fbf1be4f37791eb6c7447d5b88cd0a4dab1f",
-            "image_download_size": 4551879813,
-            "release_date": "2024-05-22",
-            "devices": [
-                "pi4-64bit"
-            ]
-        },
-        {
-            "name": "Ultramarine Linux GNOME Edition",
-            "description": "Elegant and Modern. Choose GNOME if you'd like a simple, unique experience.",
-            "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
-            "url": "https://images.fyralabs.com/images/ultramarine/40/gnome-base-disk-aarch64.img.zst",
-            "extract_size": 11000000000,
-            "extract_sha256": "cad0fde97eadcaf744d34d3ce042e34595ba2b200edddb0212896ee07d005884",
-            "image_download_size": 3081465145,
-            "release_date": "2024-05-22",
-            "devices": [
-                "pi4-64bit"
-            ]
-        },
-        {
-            "name": "Ultramarine Linux Xfce Edition",
-            "description": "Lightweight and Configurable. Choose Xfce if you'd like a lighter experience.",
-            "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
-            "url": "https://images.fyralabs.com/images/ultramarine/40/xfce-base-disk-aarch64.img.zst",
-            "extract_size": 12000000000,
-            "extract_sha256": "f797eaeb1271e46d5ae4ce9e913cd21e97c45b83a07c8b40b7a19f4fcaca5906",
-            "image_download_size": 3250925267,
-            "release_date": "2024-05-22",
-            "devices": [
-                "pi4-64bit"
-            ]
-        },
-        {
-            "name": "Ultramarine Linux Base",
-            "description": "Ultramarine with No Desktop.",
-            "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
-            "url": "https://images.fyralabs.com/images/ultramarine/40/base-base-disk-aarch64.img.zst",
-            "extract_size": 8000000000,
-            "extract_sha256": "8e928c6016d9a7b64161c5ddc275f6f50a5731fc0f884c9b1e3f5ac0f0d8b94e",
-            "image_download_size": 1967269443,
-            "release_date": "2024-05-22",
-            "devices": [
-                "pi4-64bit"
-            ]
-        }
-    ]
+  "os_list": [
+    {
+      "name": "Ultramarine Plasma Edition",
+      "description": "(Recommended) A community favorite with an Ultramarine twist. Simple defaults and wide-ranging customizations.",
+      "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
+      "url": "https://images.fyralabs.com/images/ultramarine/43/plasma-base-disk-aarch64.img.zst",
+      "extract_size": 15000000000,
+      "extract_sha256": "5a279fc0463b96a2fcc2dbe9ca4d254e1d9b4c8e448cdde7fb312485ad631f42",
+      "image_download_size": 4245855598,
+      "release_date": "2025-11-24",
+      "devices": ["pi4-64bit"]
+    },
+    {
+      "name": "Ultramarine Xfce Edition",
+      "description": "A lightweight and elegant experience designed to help you squeeze the most out of your device, or revive an old one.",
+      "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
+      "url": "https://images.fyralabs.com/images/ultramarine/43/xfce-base-disk-aarch64.img.zst",
+      "extract_size": 16000000000,
+      "extract_sha256": "862b79776e5f88a9feb443d28c5df38ea9f3fee36cad99afb1e7dbb8cbbff900",
+      "image_download_size": 3714415796,
+      "release_date": "2025-11-24",
+      "devices": ["pi4-64bit"]
+    },
+    {
+      "name": "Ultramarine Budgie Edition",
+      "description": "A familiar and stylish experience with a bit of flair.",
+      "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
+      "url": "https://images.fyralabs.com/images/ultramarine/43/budgie-base-disk-aarch64.img.zst",
+      "extract_size": 17000000000,
+      "extract_sha256": "024872bb5b070d9d044c09f6918fc0f33b0d37b234251530d9e6cd7f9accfe03",
+      "image_download_size": 3688645675,
+      "release_date": "2025-11-24",
+      "devices": ["pi4-64bit"]
+    },
+    {
+      "name": "Ultramarine GNOME Edition",
+      "description": "A simple, elegant, and intuitive desktop with a large ecosystem of apps and extensions.",
+      "icon": "https://raw.githubusercontent.com/Ultramarine-Linux/logos/lapis/pixmaps/rpi-imager.png",
+      "url": "https://images.fyralabs.com/images/ultramarine/43/gnome-base-disk-aarch64.img.zst",
+      "extract_size": 16000000000,
+      "extract_sha256": "7ca0fdef6beef716c3d45a3db930df47de2bc92fd259c2f8df63a5e47eda1f61",
+      "image_download_size": 3552518496,
+      "release_date": "2025-11-24",
+      "devices": ["pi4-64bit"]
+    }
+  ]
 }
